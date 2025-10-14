@@ -1,2 +1,5 @@
 pyspark
 ipykernel
+matplotlib
+scikit-learn
+seaborn
